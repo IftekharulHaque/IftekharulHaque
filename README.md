@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi! I'm an Associate Software Engineer at Orbitax, currently working with Angular and .NET to build web apps that are clean, efficient, and user-friendly.<br><br>I'm also super excited about AI and love exploring ways to integrate it into projects — whether it's smart tools, fun side projects, or just experimenting with new ideas.<br><br>I'm always learning, building, and happy to connect with fellow devs!
+# Hi!
+I'm an Associate Software Engineer at Orbitax, currently working with Angular and .NET to build web apps that are clean, efficient, and user-friendly.<br><br>I'm also super excited about AI and love exploring ways to integrate it into projects — whether it's smart tools, fun side projects, or just experimenting with new ideas.<br><br>I'm always learning, building, and happy to connect with fellow devs!
 
 
 # 💻 Tech Stack:
