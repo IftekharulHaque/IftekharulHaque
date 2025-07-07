@@ -2,6 +2,8 @@
 
 I'm an **Associate Software Engineer at Orbitax** where I work with **Angular** and **.NET** to build web apps that are clean, efficient, and a joy to use.
 
+Currently I am building the AI tool XatBot to change the global tax world.
+
 I'm also super passionate about **AI** 🤖 — whether it's building smart tools or just exploring the wild world of machine intelligence, I love diving into it all.
 
 Always learning, always building — and always happy to connect with fellow devs! 💬✨
