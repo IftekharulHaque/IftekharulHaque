@@ -1,19 +1,29 @@
-# 👋 Hi there!
+### 👋 Hi, I'm Iftekharul Haque Noor
 
-I'm an **Associate Software Engineer at Orbitax** where I work with **Angular** and **.NET** to build web apps that are clean, efficient, and a joy to use.
+I'm a Software Engineer passionate about building AI-powered systems and scalable web applications. I specialize in designing intelligent agents, automation tools, and backend services that solve real-world problems using modern technologies.
 
-Currently I am building the AI tool XatBot to change the global tax world.
+💡 **What I work on:**  
+- Building intelligent assistants and AI agents using LLMs  
+- Architecting backend services and API orchestration  
+- Retrieval-Augmented Generation (RAG) and vector databases  
+- Real-time, data-driven applications and automation tools  
 
-I'm also super passionate about **AI** 🤖 — whether it's building smart tools or just exploring the wild world of machine intelligence, I love diving into it all.
+🧠 **Tech I enjoy using:**  
+`Asp.Net`,`Python`, `TypeScript`, `Nest.js`, `Next.js`, `LangChain`, `Supabase`, `MongoDB`, `PostgreSQL`, `Docker`, `OpenAI`, `Azure`, `Prompt Engineering`
 
-Always learning, always building — and always happy to connect with fellow devs! 💬✨
+📫 **Let's connect!**  
+[LinkedIn](https://www.linkedin.com/in/ihn)
+
+---
+
+Always learning. Always building. Let's make AI more useful, one project at a time.
+
 
 ---
 
 ## 💻 Tech Stack
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
@@ -21,7 +31,6 @@ Always learning, always building — and always happy to connect with fellow dev
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
@@ -30,7 +39,6 @@ Always learning, always building — and always happy to connect with fellow dev
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
 
 ---
 
